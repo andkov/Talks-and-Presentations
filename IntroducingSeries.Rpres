@@ -1,0 +1,26 @@
+Introducing Series
+========================================================
+author: Andrey Koval
+date: ** September, 2014
+
+Four skills in scientific communication
+========================================================
+
+- Data manipulation
+- Graph production 
+- Statistical modeling
+- Dynamic reporting 
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```

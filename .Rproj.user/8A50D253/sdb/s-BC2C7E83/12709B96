@@ -1,0 +1,16 @@
+{
+    "contents" : "Introducing Series\n========================================================\nauthor: Andrey Koval\ndate: ** September, 2014\n\nFour skills in scientific communication\n========================================================\n\n- Data manipulation\n- Graph production \n- Statistical modeling\n- Dynamic reporting \n\nSlide With Code\n========================================================\n\n```{r}\nsummary(cars)\n```\n\nSlide With Plot\n========================================================\n\n```{r, echo=FALSE}\nplot(cars)\n```\n",
+    "created" : 1408590390599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2167415166",
+    "id" : "12709B96",
+    "lastKnownWriteTime" : 1408591832,
+    "path" : "~/GitHub/Talks-and-Presentations/IntroducingSeries.Rpres",
+    "project_path" : "IntroducingSeries.Rpres",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_presentation"
+}
