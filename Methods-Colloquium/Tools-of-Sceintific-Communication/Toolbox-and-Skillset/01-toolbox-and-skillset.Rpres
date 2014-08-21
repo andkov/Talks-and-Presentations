@@ -1,0 +1,32 @@
+<style type="text/css">
+.small-code pre code {
+   font-size: 1.1em;
+}
+</style>
+
+
+Topic 1 : Toolbox and Skillset for Reproducible Research
+========================================================
+author: Andrey Koval
+date: 5 September 2014
+
+Scientific Communication
+========================================================
+
+> The only difference between science and screwing around is when you writing it down
+-- [Adam Savage](http://onedublin.org/2012/03/06/mythbusters-adam-savage-and-kari-byron-on-the-art-of-science-and-experimentation/)
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```

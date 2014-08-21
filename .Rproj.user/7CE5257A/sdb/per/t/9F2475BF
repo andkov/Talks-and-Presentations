@@ -1,0 +1,16 @@
+{
+    "contents" : "<style type=\"text/css\">\n.small-code pre code {\n   font-size: 1.1em;\n}\n</style>\n\n\nTopic 1 : Toolbox and Skillset for Reproducible Research\n========================================================\nauthor: Andrey Koval\ndate: 5 September 2014\n\nScientific Communication\n========================================================\n\n> The only difference between science and screwing around is when you writing it down\n-- [Adam Savage](http://onedublin.org/2012/03/06/mythbusters-adam-savage-and-kari-byron-on-the-art-of-science-and-experimentation/)\n\n\nSlide With Code\n========================================================\n\n```{r}\nsummary(cars)\n```\n\nSlide With Plot\n========================================================\n\n```{r, echo=FALSE}\nplot(cars)\n```\n",
+    "created" : 1408643488228.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2291333794",
+    "id" : "9F2475BF",
+    "lastKnownWriteTime" : 1408644611,
+    "path" : "~/GitHub/Talks-and-Presentations/Methods-Colloquium/Tools-of-Sceintific-Communication/Toolbox-and-Skillset/01-toolbox-and-skillset.Rpres",
+    "project_path" : "Methods-Colloquium/Tools-of-Sceintific-Communication/Toolbox-and-Skillset/01-toolbox-and-skillset.Rpres",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_presentation"
+}
